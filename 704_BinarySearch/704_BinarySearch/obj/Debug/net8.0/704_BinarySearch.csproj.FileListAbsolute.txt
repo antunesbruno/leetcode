@@ -1,0 +1,15 @@
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\bin\Debug\net8.0\704_BinarySearch.exe
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\bin\Debug\net8.0\704_BinarySearch.deps.json
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\bin\Debug\net8.0\704_BinarySearch.runtimeconfig.json
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\bin\Debug\net8.0\704_BinarySearch.dll
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\bin\Debug\net8.0\704_BinarySearch.pdb
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\obj\Debug\net8.0\704_BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\obj\Debug\net8.0\704_BinarySearch.AssemblyInfoInputs.cache
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\obj\Debug\net8.0\704_BinarySearch.AssemblyInfo.cs
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\obj\Debug\net8.0\704_BinarySearch.csproj.CoreCompileInputs.cache
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\obj\Debug\net8.0\704_BinarySearch.sourcelink.json
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\obj\Debug\net8.0\704_BinarySearch.dll
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\obj\Debug\net8.0\refint\704_BinarySearch.dll
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\obj\Debug\net8.0\704_BinarySearch.pdb
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\obj\Debug\net8.0\704_BinarySearch.genruntimeconfig.cache
+C:\Projetos\leetcode\704_BinarySearch\704_BinarySearch\obj\Debug\net8.0\ref\704_BinarySearch.dll
