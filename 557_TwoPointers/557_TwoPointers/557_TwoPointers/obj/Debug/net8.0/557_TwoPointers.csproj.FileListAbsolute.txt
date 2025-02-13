@@ -1,0 +1,15 @@
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\bin\Debug\net8.0\557_TwoPointers.exe
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\bin\Debug\net8.0\557_TwoPointers.deps.json
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\bin\Debug\net8.0\557_TwoPointers.runtimeconfig.json
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\bin\Debug\net8.0\557_TwoPointers.dll
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\bin\Debug\net8.0\557_TwoPointers.pdb
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\obj\Debug\net8.0\557_TwoPointers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\obj\Debug\net8.0\557_TwoPointers.AssemblyInfoInputs.cache
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\obj\Debug\net8.0\557_TwoPointers.AssemblyInfo.cs
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\obj\Debug\net8.0\557_TwoPointers.csproj.CoreCompileInputs.cache
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\obj\Debug\net8.0\557_TwoPointers.sourcelink.json
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\obj\Debug\net8.0\557_TwoPointers.dll
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\obj\Debug\net8.0\refint\557_TwoPointers.dll
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\obj\Debug\net8.0\557_TwoPointers.pdb
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\obj\Debug\net8.0\557_TwoPointers.genruntimeconfig.cache
+C:\Projetos\leetcode\557_TwoPointers\557_TwoPointers\557_TwoPointers\obj\Debug\net8.0\ref\557_TwoPointers.dll
