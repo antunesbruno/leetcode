@@ -1,0 +1,15 @@
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\bin\Debug\net8.0\00_ExponencialSearch.exe
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\bin\Debug\net8.0\00_ExponencialSearch.deps.json
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\bin\Debug\net8.0\00_ExponencialSearch.runtimeconfig.json
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\bin\Debug\net8.0\00_ExponencialSearch.dll
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\bin\Debug\net8.0\00_ExponencialSearch.pdb
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\obj\Debug\net8.0\00_ExponencialSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\obj\Debug\net8.0\00_ExponencialSearch.AssemblyInfoInputs.cache
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\obj\Debug\net8.0\00_ExponencialSearch.AssemblyInfo.cs
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\obj\Debug\net8.0\00_ExponencialSearch.csproj.CoreCompileInputs.cache
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\obj\Debug\net8.0\00_ExponencialSearch.sourcelink.json
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\obj\Debug\net8.0\00_ExponencialSearch.dll
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\obj\Debug\net8.0\refint\00_ExponencialSearch.dll
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\obj\Debug\net8.0\00_ExponencialSearch.pdb
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\obj\Debug\net8.0\00_ExponencialSearch.genruntimeconfig.cache
+C:\Projetos\leetcode\00_ExponencialSearch\00_ExponencialSearch\obj\Debug\net8.0\ref\00_ExponencialSearch.dll
