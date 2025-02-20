@@ -1,0 +1,15 @@
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\obj\Debug\net8.0\00_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\obj\Debug\net8.0\00_LinkedList.AssemblyInfoInputs.cache
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\obj\Debug\net8.0\00_LinkedList.AssemblyInfo.cs
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\obj\Debug\net8.0\00_LinkedList.csproj.CoreCompileInputs.cache
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\obj\Debug\net8.0\00_LinkedList.sourcelink.json
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\bin\Debug\net8.0\00_LinkedList.exe
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\bin\Debug\net8.0\00_LinkedList.deps.json
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\bin\Debug\net8.0\00_LinkedList.runtimeconfig.json
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\bin\Debug\net8.0\00_LinkedList.dll
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\bin\Debug\net8.0\00_LinkedList.pdb
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\obj\Debug\net8.0\00_LinkedList.dll
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\obj\Debug\net8.0\refint\00_LinkedList.dll
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\obj\Debug\net8.0\00_LinkedList.pdb
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\obj\Debug\net8.0\00_LinkedList.genruntimeconfig.cache
+C:\Projetos\leetcode\00_LinkedList\00_LinkedList\obj\Debug\net8.0\ref\00_LinkedList.dll
