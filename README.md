@@ -28,7 +28,7 @@ Below is a description of many implementations of these algorithms as seen on Le
    - **Time Complexity**: O(log n).
    - **Use Case**: Searching in sorted arrays or as a subroutine in other algorithms.
 
-Problem Solved in Leetcode: 
+**Problem Solved in Leetcode: **
 - https://leetcode.com/problems/binary-search/
 - https://leetcode.com/problems/intersection-of-two-arrays/
 
@@ -44,7 +44,7 @@ Problem Solved in Leetcode:
    - **Time Complexity**: Typically O(n) for linear traversal.
    - **Use Case**: Problems like finding pairs with a target sum, checking palindromes, or merging sorted arrays.
 
-Problem Solved in Leetcode:
+**Problem Solved in Leetcode: **
    - https://leetcode.com/problems/reverse-words-in-a-string-iii/
 
 ---
@@ -59,7 +59,7 @@ Problem Solved in Leetcode:
    - **Time Complexity**: Typically O(n) for linear traversal.
    - **Use Case**: Problems like finding maximum subarray sums, longest substrings with unique characters, or minimum window substrings.
 
-Problem Solved in Leetcode:
+**Problem Solved in Leetcode: **
 - https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/  
 
 ---
