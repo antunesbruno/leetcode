@@ -1,5 +1,7 @@
-# leetcode
-This repository contains many solutions of the lessons that we can find in the leetcode platform
+# LEETCODE
+LeetCode is a popular platform for practicing coding problems, and it features a wide variety of implementations for algorithms like Exponential Search, Binary Search, Two Pointers, and Sliding Window. 
+
+Below is a description of many implementations of these algorithms as seen on LeetCode:
 
 ---
 
